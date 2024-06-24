@@ -1,4 +1,5 @@
 ## Hi there 👋
+Using GitHub is so hard, just had to eat this block of butter
 
 <!--
 **Wrenbrie/Wrenbrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
